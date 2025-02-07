@@ -2,6 +2,7 @@
 
 ## Introduction
 This project emulates a traffic light system, featuring multiple system routines that users can switch by altering the `mode` signal. The system follows **The World Advanced Traffic Light Control System**, which could be implemented as part of **Oman Vision 2040**. It includes dedicated traffic lights for cars and separate lights for pedestrians on each side of the crossroad.
+![image](https://github.com/user-attachments/assets/ef15a77b-624c-4941-a1af-18cb5215e6c3)
 
 ---
 
